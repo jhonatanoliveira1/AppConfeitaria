@@ -1,0 +1,11 @@
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppBolaria\AppBolaria\bin\Debug\AppBolaria.exe.config
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.csprojResolveAssemblyReference.cache
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.Form1.resources
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.Properties.Resources.resources
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.csproj.GenerateResource.Cache
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.Form1.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.Properties.Resources.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.csproj.GenerateResource.cache
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.exe
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppBolaria\AppBolaria\obj\Debug\AppBolaria.pdb

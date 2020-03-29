@@ -1,0 +1,105 @@
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\bin\Debug\AppBolaria.exe.config
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppBolaria.exe
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppBolaria.pdb
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.csprojResolveAssemblyReference.cache
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.Form1.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Bolo.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Cliente.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Entrega.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Login.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Pedido.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Recheio.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Sabor.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Usuario.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppBolaria.Properties.Resources.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.csproj.GenerateResource.Cache
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Principal.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.Form1.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Bolo.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Cliente.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Login.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Pedido.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Principal.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Recheio.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Sabor.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Usuario.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppBolaria.Properties.Resources.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.csproj.GenerateResource.cache
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppBolaria.exe
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppBolaria.pdb
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\bin\Debug\BD_APPCONFEITARIA.mdf
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\bin\Debug\BD_APPCONFEITARIA_log.ldf
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\bin\Debug\AppBolaria.exe.config
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\bin\Debug\AppBolaria.exe
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\bin\Debug\AppBolaria.pdb
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\bin\Debug\BD_APPCONFEITARIA.mdf
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\bin\Debug\BD_APPCONFEITARIA_log.ldf
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\bin\Debug\AppBolaria.exe
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\bin\Debug\AppBolaria.pdb
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppBolaria\obj\Debug\AppConfeitaria.frm_Cobertura.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppBolaria\bin\Debug\AppConfeitaria.exe.config
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\AppConfeitaria.exe.config
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\BD_APPCONFEITARIA.mdf
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\BD_APPCONFEITARIA_log.ldf
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\AppConfeitaria.exe
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\AppConfeitaria.pdb
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.csprojResolveAssemblyReference.cache
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.Form1.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Bolo.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Cliente.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Cobertura.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Login.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Pedido.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Principal.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Recheio.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Sabor.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Usuario.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.Properties.Resources.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.csproj.GenerateResource.Cache
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.exe
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.pdb
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.Form1.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Bolo.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Cliente.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Cobertura.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Login.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Pedido.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Principal.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Recheio.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Sabor.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Usuario.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.Properties.Resources.resources
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.csproj.GenerateResource.cache
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.exe
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.pdb
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\BD_APPCONFEITARIA.mdf
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\BD_APPCONFEITARIA_log.ldf
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\AppConfeitaria.exe.config
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\AppConfeitaria.exe
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\AppConfeitaria.pdb
+E:\Projects\AppConfeitaria\AppConfeitaria\bin\Debug\AppConfeitaria.exe.config
+E:\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.exe
+E:\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.pdb
+E:\arrumar essa merda\AppConfeitaria\AppConfeitaria\bin\Debug\AppConfeitaria.exe.config
+E:\arrumar essa merda\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.exe
+E:\arrumar essa merda\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.pdb
+C:\Users\jhony\Documents\Visual Studio 2019\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_TabelaValor.resources
+C:\Users\jhonatan.oliveira1\Documents\Visual Studio 2015\Projects\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_TabelaValor.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.csprojAssemblyReference.cache
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.Form1.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Bolo.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Cliente.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Cobertura.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Login.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Pedido.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Principal.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Recheio.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Sabor.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_TabelaValor.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.frm_Usuario.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.Properties.Resources.resources
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.csproj.GenerateResource.cache
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.exe
+C:\Users\jhony\source\repos\AppConfeitaria\AppConfeitaria\obj\Debug\AppConfeitaria.pdb
